@@ -1,0 +1,9 @@
+body {
+
+  background-color: #eee;
+  background-image: url(./components/images/background1.jpg);
+  background-image: url(./components/images/background2.jpg) ;
+  background-size: cover;
+  
+
+}
